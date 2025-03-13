@@ -16,10 +16,10 @@
 pip install requests dnspython  
 
 # Basic scan  
-python subenum.py example.com  
+python subdomain.py example.com  
 
 # Full scan with wordlist  
-python subenum.py oman.om -w wordlist1.txt  
+python subdomain.py oman.om -w wordlist1.txt  
 
 📂 Wordlist Guidance
 Included: wordlist1.txt (Basic 500 entries)
